@@ -1,0 +1,51 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 104" width="179" height="104">
+	<title>dpad-svg</title>
+	<defs>
+		<image  width="52" height="36" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAkCAMAAADxcOlCAAAAAXNSR0IB2cksfwAAAE5QTFRFzMzM5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fnG2H3OgAAABp0Uk5TADBff5+/z//fbz8Q72BQgLDAQHCQIKDQ8OBYmDFSAAAA3ElEQVR4nJ3V6xqCIAwGYE1kFpKCeLr/Gw2pDJB04/v/PsjcRlG4lLeK1TUHL01tw6rq/ihSEayFszCRQPyU2PCjklcGoC3JB23qGd0IYWxkgJ44BMxHHRIFReyxyC+iQiPgexHxxis9Be2KhKB1pS9p6P3DNBWBzkGNyEAw5CCVg0wOGjOQyajehJ/BwFDbaMroPfPp8plg9kVBGMLfcjFYsnjLb0Ca1V+YyIGaw9W8YMwUrXPMpUwRZbw+SsbGPhsXajm8GVuENOofXFU/psz3M7WN7Fy0S/IEmxeu2S00wAVNBAAAAABJRU5ErkJggg=="/>
+		<image  width="36" height="51" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAzCAMAAADIDVqJAAAAAXNSR0IB2cksfwAAAEVQTFRFzMzM5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fnYaPM+AAAABd0Uk5TACCf789fYP+/EHAwQLCAwN9Q0KDgkPAaaMK5AAAAzUlEQVR4nN3U3RKCIBAF4BWNo/KXhb3/o2ZWIyawe9F00bn+ZmB34BDt06i2O1E9Go/0Q80oPNNV1AiwSgOsSs2issZgH5UzLVg1HAwwfpruaAC9R33OACY1Km/QJmosmHRdumi2dR2HT6OKw6dZF5EdPo0lspyBI/IsChJ0liAQOQkKX0JGgqwM8ebXaJIg/9dItALhxi8S9K33NNCVR5IvFYkmFi0/uGGRX1olcmgi/lJxbbH6fPHVrWYuHunSKm+sn0PY7C0E5/W7oO89DCuuGHwzowAAAABJRU5ErkJggg=="/>
+		<image  width="36" height="51" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAzCAMAAADIDVqJAAAAAXNSR0IB2cksfwAAAEtQTFRF0dHR6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urqs5c1zwAAABl0Uk5TADA/f7//z49PX6/vEFDfYCBAcKDAgLDw0OSz3sEAAADPSURBVHic7dXbEkMwEAbgTUlbFU2IWO//pF2MNuSwueil/8qYb8jJD2CLuFVVTZFr7nT1qJ4CvDSvVsZTN2oj3Tsh1rR6MSb1lD09oYEx0hIaOdQS4t4mpQHFGhpUz6OhBDl+cgtyPJpK0HihC9F56kpQ0fH9F9Jl3x0UIWQRVRS7UNNSUDZv5rXr1JwzaLY+VLlhfctVpJX+1W9yA51f0jpuLBwSneIIwKpZnVG4EBiYUKEIDf0akDen5dJxc1BJ46mM2RVmDc3RobTmdPMDGAAkAbLEKKwAAAAASUVORK5CYII="/>
+		<image  width="52" height="36" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAkCAMAAADxcOlCAAAAAXNSR0IB2cksfwAAAE5QTFRFzMzM5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fnG2H3OgAAABp0Uk5TACA/T3+fv/8wYO8QoM/fUIDAb0BwkODw0LDma0WHAAAA1klEQVR4nJ3V0RKCIBAFUDBs1SwwSOv/fzTBGV1BZZf75ANn1KssQsSR1U0pVd9DYEm4VqpqktVL2g4u0tXywKgrEliiHnXOAPSxeeYNdHvTvAgGQO/MZQVbDK6NRgCGzbypBr0UobY1JQYsveoIMU1AXAOuwPgP9eGaGUm2mZErQboEibEE8W/lf3NTgtjK8LbSEsvcgBgJPTHQOjIbhkJj5Us1Ix56VIUGy6x6GsIjTFB3SXx0UKofRRybL9ElKF/iLzW+jnM2DebsLAyP6WNQWmu39X/KRC1BfDQBjgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #c1272d } 
+		.s1 { opacity: .3;fill: #000000 } 
+		.s2 { opacity: .3;fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m108.8 34.6c-0.7 0.4-28.5 2.2-31.4-1.3c-2.9-3.5-2.6-15.6-2.6-15.6c0 0-0.3-12.1 2.6-15.6c2.9-3.5 30.7-1.7 31.4-1.3c0.7 0.4 14.3 12 15.7 14c1.4 2 1.2 2.9 1.2 2.9c0 0 0.2 0.9-1.2 2.9c-1.4 2-15 13.6-15.7 14z" />
+			<path id="Layer" class="s1" d="m113.3 30.9c-2.2-3.9-3.4-8.4-3.4-13.2c0-4.8 1.3-9.3 3.4-13.2c4.3 3.7 10.3 9 11.2 10.3c1.4 2 1.2 2.9 1.2 2.9c0 0 0.2 0.9-1.2 2.9c-0.9 1.3-6.9 6.6-11.2 10.3z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m34.6 17c0.4 0.7 2.2 28.5-1.3 31.4c-3.5 2.9-15.6 2.6-15.6 2.6c0 0-12.1 0.3-15.6-2.6c-3.5-2.9-1.7-30.7-1.3-31.4c0.4-0.7 12-14.3 14-15.7c2-1.4 2.9-1.2 2.9-1.2c0 0 0.9-0.2 2.9 1.2c2 1.3 13.6 14.9 14 15.7z" />
+		<path id="Layer" class="s1" d="m30.9 12.5c-3.9 2.2-8.4 3.4-13.2 3.4c-4.8 0-9.3-1.3-13.2-3.4c3.7-4.3 9-10.3 10.3-11.2c2-1.4 2.9-1.2 2.9-1.2c0 0 0.9-0.2 2.9 1.2c1.3 0.8 6.6 6.8 10.3 11.2z" />
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m38.2 34.1c-0.4-0.7-2.2-28.5 1.3-31.4c3.5-2.9 15.6-2.6 15.6-2.6c0 0 12.1-0.3 15.6 2.6c3.5 2.9 1.7 30.7 1.3 31.4c-0.4 0.7-12 14.3-14 15.7c-2 1.4-2.9 1.2-2.9 1.2c0 0-0.9 0.2-2.9-1.2c-2-1.4-13.6-15-14-15.7z" />
+		<path id="Layer" class="s1" d="m41.9 38.6c3.9-2.2 8.4-3.4 13.2-3.4c4.8 0 9.3 1.3 13.2 3.4c-3.7 4.3-9 10.3-10.3 11.2c-2 1.4-2.9 1.2-2.9 1.2c0 0-0.9 0.2-2.9-1.2c-1.3-0.9-6.6-6.9-10.3-11.2z" />
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m178.5 17.9c0 0 0.3 12.1-2.6 15.6c-2.9 3.5-30.7 1.7-31.4 1.3c-0.7-0.4-14.3-12-15.7-14c-1.4-2-1.2-2.9-1.2-2.9c0 0-0.2-0.9 1.2-2.9c1.4-2 15-13.6 15.7-14c0.7-0.4 28.5-2.2 31.4 1.3c2.8 3.5 2.6 15.6 2.6 15.6z" />
+		<path id="Layer" class="s1" d="m143.4 17.9c0 4.8-1.3 9.3-3.4 13.2c-4.3-3.7-10.3-9-11.2-10.3c-1.4-2-1.2-2.9-1.2-2.9c0 0-0.2-0.9 1.2-2.9c0.9-1.3 6.9-6.6 11.2-10.3c2.1 3.9 3.4 8.4 3.4 13.2z" />
+	</g>
+	<g id="Layer">
+		<use id="Layer" href="#img1" x="74" y="53" />
+		<path id="Layer" class="s2" d="m113.3 83.9c-2.2-3.9-3.4-8.4-3.4-13.2c0-4.8 1.3-9.3 3.4-13.2c4.3 3.7 10.3 9 11.2 10.3c1.4 2 1.2 2.9 1.2 2.9c0 0 0.2 0.9-1.2 2.9c-0.9 1.3-6.9 6.6-11.2 10.3z" />
+	</g>
+	<g id="Layer">
+		<use id="Layer" href="#img2" x="0" y="53" />
+		<path id="Layer" class="s2" d="m30.9 65.5c-3.9 2.2-8.4 3.4-13.2 3.4c-4.8 0-9.3-1.3-13.2-3.4c3.7-4.3 9-10.3 10.3-11.2c2-1.4 2.9-1.2 2.9-1.2c0 0 0.9-0.2 2.9 1.2c1.3 0.8 6.6 6.8 10.3 11.2z" />
+	</g>
+	<g id="Layer">
+		<use id="Layer" href="#img3" x="37" y="53" />
+		<path id="Layer" class="s2" d="m41.9 91.6c3.9-2.2 8.4-3.4 13.2-3.4c4.8 0 9.3 1.3 13.2 3.4c-3.7 4.3-9 10.3-10.3 11.2c-2 1.4-2.9 1.2-2.9 1.2c0 0-0.9 0.2-2.9-1.2c-1.3-0.9-6.6-6.9-10.3-11.2z" />
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<use id="Layer" href="#img4" x="127" y="53" />
+			<path id="Layer" class="s2" d="m143.4 70.8c0 4.8-1.3 9.3-3.4 13.2c-4.3-3.7-10.3-9-11.2-10.3c-1.4-2-1.2-2.9-1.2-2.9c0 0-0.2-0.9 1.2-2.9c0.9-1.3 6.9-6.6 11.2-10.3c2.1 3.9 3.4 8.4 3.4 13.2z" />
+		</g>
+	</g>
+</svg>
