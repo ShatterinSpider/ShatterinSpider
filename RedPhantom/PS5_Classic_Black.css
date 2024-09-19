@@ -1,4 +1,12 @@
 /*BEGIN PS4 Controller Styling*/
+.ds4 .button {
+    background-image: url(face.svg);
+}
+
+.ds4 .face {
+    background-image: url(dpad.svg);
+}
+
 .controller.ds4 {
     background: url(Black_SkinNo_Buttons.png);
     height: 700px;
@@ -272,14 +280,6 @@ background-position: 0 -70px;
     background-image: url(Start.png);
     width: 26px;
     height: 43px;
-}
-
-.ds4.white .button {
-    background-image: url(face.svg);
-}
-
-.ds4.white .face {
-    background-image: url(dpad.svg);
 }
 
 /*END PS4 White Controller Styling*/
